@@ -1,0 +1,6 @@
+{
+  "hello-world": {
+    "component": "HelloWorld",
+    "composition": "children"
+  }
+}

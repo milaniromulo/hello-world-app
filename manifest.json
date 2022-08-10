@@ -1,0 +1,26 @@
+{
+  "vendor": "corebiz",
+  "name": "hello-world",
+  "version": "0.1.0",
+  "title": "Hello World",
+  "description": "A React APP Repo Template",
+  "builders": {
+    "react": "3.x",
+    "store": "0.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.css-handles": "0.x",
+    "vtex.slider-layout": "0.x",
+    "vtex.device-detector": "0.x",
+    "vtex.store-components": "3.x",
+    "whirlpoolmaster.ui": "0.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

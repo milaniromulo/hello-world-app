@@ -1,0 +1,24 @@
+{
+  "projectName": "hello-world",
+  "projectOwner": "corebiz-apps",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "docs/README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "milaniromulo",
+      "name": "Rômulo Milani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5239759?v=4",
+      "profile": "",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

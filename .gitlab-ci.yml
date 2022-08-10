@@ -1,0 +1,10 @@
+include:
+  - project: 'devops/ci-templates'
+    file: 
+      - '/vtex/stages-ci.yml'
+      - '/vtex/build-ci.yml'
+      - '/vtex/test-ci.yml'
+      - '/vtex/security-ci.yml'
+      - '/vtex/prepare-ci.yml'
+      - '/vtex/release-ci.yml'
+      - '/vtex/deploy-ci.yml'
